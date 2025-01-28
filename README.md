@@ -3,4 +3,7 @@ Pandas Cheat Sheet and Practice Problems for Data Analysis
 
 ### Book by [Deepali Srivastava](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
 
-<img src="[image-url](https://github.com/user-attachments/assets/565e14e9-7ae5-4c84-99bb-e64c5db9e24a)(https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)" alt="Alt Text" width="30" height="20">
+[![Ultimate Python Programming]![BookImagePython](https://github.com/user-attachments/assets/fb396f25-c8e1-4736-b721-6deed9715868)
+
+
+
