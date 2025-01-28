@@ -15,7 +15,7 @@ This repository contains resources to help you improve your Pandas data analysis
 - Questions 50-108 use artificial data on educational website, structured across six tables:
   - **Users**, **Courses**, **Ratings**, **Payments**, **Enrollments**, and **Refunds**.
 
-Use these resources to practice and refine your data analysis expertise. Happy learning! 🚀
+Use these resources to practise and refine your data analysis expertise. Happy learning! 🚀
 
 ### Book by [Deepali Srivastava](https://in.linkedin.com/in/deepali-srivastava-2030b7301)
 [![ultimate-python-programming](https://github.com/user-attachments/assets/c4d9cc94-d9da-4d98-bdf5-24cb592a64f4)](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
