@@ -12,7 +12,7 @@ This repository contains resources to help you improve your Pandas data analysis
 
 ### Datasets:
 - Questions 1-49 are based on the [Amazon Book Dataset](https://www.kaggle.com/code/parthdande/amazon-book-dataset-analysis).
-- Questions 50-108 use artificial data on education website, structured across six tables:
+- Questions 50-108 use artificial data on educational website, structured across six tables:
   - **Users**, **Courses**, **Ratings**, **Payments**, **Enrollments**, and **Refunds**.
 
 Use these resources to practice and refine your data analysis expertise. Happy learning! 🚀
