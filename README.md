@@ -4,7 +4,7 @@ This repository contains resources to help you improve your Pandas data analysis
 
 1. **Pandas Cheat Sheet**: A compact reference guide covering essential Pandas topics for quick access.
 
-2. **Jupyter Notebook**: Contains 108 practical questions designed to enhance your skills in:
+2. **Jupyter Notebook**: Contains 108 practical questions designed to practise your skills in:
    - Data cleaning
    - Merging tables
    - Manipulation
